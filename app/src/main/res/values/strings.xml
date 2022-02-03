@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaobaoUnion</string>
+    <string name="text_home">首页</string>
+    <string name="text_selected">精选</string>
+    <string name="text_red_packet">特惠</string>
+    <string name="text_search">搜索</string>
+    <string name="text_search_tips">搜你想搜..的宝贝</string>
+    <string name="text_network_error_tips">网络错误,点击重试!</string>
+    <string name="text_goods_off_price">省%d元</string>
+    <string name="text_goods_quan">券后价:</string>
+    <string name="text_goods_quanhoujia">19.8</string>
+    <string name="text_goods_yuanjia">￥49.8</string>
+    <string name="text_goods_goumairenshu">1000人已购买</string>
+    <string name="text_goods_test">测试标题</string>
+</resources>
